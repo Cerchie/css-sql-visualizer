@@ -15,3 +15,16 @@ body {
   background: ivory;
   box-shadow: 2px -2px 5px black;
 }
+
+.wrap {
+  background: gray;
+  text-align: center;
+}
+
+.box {
+  width: 400px;
+  background: blue;
+  display: inline-block;
+  margin: 0 7.5px;
+  text-align: left;
+}
