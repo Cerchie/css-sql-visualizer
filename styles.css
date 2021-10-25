@@ -1,0 +1,17 @@
+body {
+  background-color: pink;
+}
+.div-dark {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  background: darkblue;
+  box-shadow: 2px -2px 5px black;
+}
+.div-light {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  background: ivory;
+  box-shadow: 2px -2px 5px black;
+}
